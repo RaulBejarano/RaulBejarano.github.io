@@ -1,0 +1,12 @@
+title: Raúl Bejarano Parrilla
+email: raul.bejarano.parrilla@gmail.com
+description: Esta es la página personal de Raúl Bejarano Parrilla
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: jekyllrb
+github_username:  jekyll
+
+# Build settings
+permalink: :title/
+sass:
+    sass_dir: css
